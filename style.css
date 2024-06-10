@@ -1,0 +1,97 @@
+body {
+  font-family: "Poppins", sans-serif;
+overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-brand {
+  font-family: "Viga", sans-serif;
+  font-size: 1.6rem;
+  color:white;
+}
+
+.nav-link{
+    color: white;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+.nav-link:hover{
+    color: #43766c;
+    font-size: 1rem;
+}
+
+.main {
+  min-height: 100vh;
+  background-image: url("img/main.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.main h1 {
+  font-family: "Viga", sans-serif;
+  font-size: 4.6rem;
+  font-weight: 600;
+  margin-bottom: -5px;
+ color: #43766c;
+}
+
+
+/* about */
+#about h1 {
+  font-family: "DM Serif Display", serif;
+  font-size: 4rem;
+}
+
+/* servis */
+.servis {
+    min-height: 70vh;
+    background-attachment: fixed;
+    background-image: url("img/bg2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .servis h1{
+    font-family: "Viga", sans-serif;
+    font-size: 4rem;
+    color: #43766c;
+  }
+
+  .card-title{
+    font-family: "Viga", sans-serif;
+    font-size: 1.8rem;
+    color: #43766c;
+  }
+  .card-text{
+    font-size: 0.9rem;
+    font-weight: 400;
+
+  }
+
+/* info */
+ #info h1{
+   
+        font-family: "Viga", sans-serif;
+        font-size: 4.6rem;
+        font-weight: 600;
+        margin-bottom: -5px;
+        color: #43766c;
+    }
+    
+    #info h3{
+        font-size: 1rem;
+        font-weight: 600;
+    }
+    #info h2{
+    font-family: "Viga", sans-serif;
+    font-size: 2.5rem;
+    font-weight: 400;
+}
+
+
+ 
